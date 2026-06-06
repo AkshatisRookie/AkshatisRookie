@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/akshatsethh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://leetcode.com/u/NOTROOKIE/">
+  <a href="https://leetcode.com/u/SAXXYY/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://valyux.in">
@@ -89,7 +89,7 @@ Crime reporting and SOS platform.
 ## LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/NOTROOKIE?theme=dark&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/SAXXYY?theme=dark&ext=heatmap" />
 </p>
 
 ---
