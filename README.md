@@ -33,46 +33,6 @@
 
 ---
 
-## Tech Stack
-
-```text
-Languages    : JavaScript, Python
-Frontend     : React.js, Next.js, Tailwind CSS
-Backend      : Node.js, Express.js
-Databases    : PostgreSQL, MySQL, Firebase, Supabase
-Tools        : Git, GitHub, Prisma, Postman, Cursor
-```
-
-## Featured Projects
-
-### 🛒 Valyux
-
-Multi-platform grocery comparison platform aggregating Blinkit, Zepto, Swiggy Instamart, and JioMart.
-
-- Secured ₹1.5L early-stage funding
-- Built scalable Express.js backend
-- Implemented caching, rate limiting, and API hardening
-- GPS-aware search and pricing
-
-### 💳 Sparsh Merchandise Platform
-
-Production payment system used during South Gujarat's largest cultural fest.
-
-- Handled real transactions and order management
-- Built with Express.js, PostgreSQL, Prisma
-- Integrated UPI payment workflows
-
-### 🚨 SafetyNet
-
-Crime reporting and SOS platform.
-
-- Emergency SOS with location sharing
-- Firebase Authentication
-- Mapbox integration
-- Real-time emergency support features
-
----
-
 ## GitHub Stats
 
 <p align="center">
