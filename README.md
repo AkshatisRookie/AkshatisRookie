@@ -86,7 +86,11 @@ Crime reporting and SOS platform.
 
 ---
 
-## LeetCode
+## 🏅 LeetCode
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=SAXXYY&theme=dark" />
+</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SAXXYY?theme=dark&ext=heatmap" />
