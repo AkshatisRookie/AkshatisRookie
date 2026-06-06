@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Seth</h1>
 
 <p align="center">
-  Full Stack Developer • Founder • Backend Enthusiast
+  Full Stack Developer • Backend Enthusiast
 </p>
 
 <p align="center">
