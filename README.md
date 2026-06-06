@@ -33,19 +33,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshatisRookie&show_icons=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatisRookie&layout=compact&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatisRookie&hide_border=true" />
-</p>
-
----
-
 ## 🏅 LeetCode
 
 <p align="center">
